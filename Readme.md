@@ -1,53 +1,29 @@
 <!-- Banner session -->
 <p align="center">
-  <img src="./images/logo-excel-ia.png" alt="Logo Bootcamp Santander - Excel com Inteligência Artificial" width="150">
-</p>
-
-
-<!--About session-->
-<h1 align="center" style="color:#8257e6">Simulador de Investimentos em Fundos Imobiliários (FIIs)</h1>
-
-<br>
-
-<p align="center">
-  <img src="./images/simulacao_fundos_imobiliarios.png" alt="Print do Simulador de Fundos Imobiliários" width="800">
+  <img src="./assets/logo-excel-ia.png" alt="Logo Bootcamp Santander - Excel com Inteligência Artificial" width="150">
 </p>
 
 <br>
+
 
 <!-- Infos session -->
-<h3> 💻 Projeto</h3>
+<h3> 💻 Projetos</h3>
 
-A planilha contendo um Simulador de Investimentos em Fundos Imobiliários (FIIs) foi desenvolvida no Bootcamp Santander - Excel com Inteligência Artificial oferecido pela <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One.</a>
+Projetos desenvolvidos durante o Bootcamp Santander - Excel com Inteligência Artificial oferecido pela <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One.</a>
 
-📝 Projeto iniciado no Excel e finalizado no Google Sheets.
-
-<br>
-
-**Informações essenciais:**
-- quanto investir por mês? (aporte mensal)
-- por quanto tempo? (duração)
-- taxa de rendimento mensal
-- perfil do investidor (conservador, moderado ou agressivo)
+1️⃣ [Controle de Investimentos](https://github.com/MichelleCordeiro/excel-ia-projetos/tree/main/controle-de-investimentos)
+2️⃣ [Organizador de IR](https://github.com/MichelleCordeiro/excel-ia-projetos/tree/main/organizador-de-IR)
 
 <br>
-
-**Informações calculadas para 2, 5, 10, 20 e 30 anos:**
-- valor total investido
-- patrimônio acumulado
-- dividendo mensal
-- sugestão de repartição (tipos de FII) do valor investido segundo o perfil do investidor
-
-<br>
-
 
 <!-- Tools session -->
 <h3> 🚀 Tecnologias utilizadas</h3>
 <p align="left">
-  <code><img height="23" src="./images/xls-icon-3399.png" alt="Excel"> Excel</code>
-  <code><img height="25" src="./images/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
+  <code><img height="23" src="./assets/xls-icon-3399.png" alt="Excel"> Excel</code>
+    <code><img height="25" src="./assets/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
   <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Google Chrome"> VS Code</code>
   <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
+
 </p>
 
 <br>
@@ -58,12 +34,13 @@ A planilha contendo um Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 - Validação de dados
 - Variáveis globais
-- Formatação condicional
 - Fórmulas
-- Gráficos
-- Estilizações
-- Investimentos em Fundos Imobiliários
-- Cálculos de rentabilidade
+- Tabelas dinâmicas
+- Gráficos dinâmicos
+- Proteção com desbloqueio de áreas específicas
+- Navegação por hiperlink
+- Fixação de imagens
+- Estilizações diversas
 
 <br>
 
@@ -96,7 +73,7 @@ A planilha contendo um Simulador de Investimentos em Fundos Imobiliários (FIIs)
 <br>
 
 
-<!--START_SECTION:footer-->
+<!--Footer session-->
 <div align="center">
   <img src="./images/gato_rodape.svg" height="70" />
 
