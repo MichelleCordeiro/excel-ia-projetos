@@ -12,7 +12,12 @@
 Projetos desenvolvidos durante o Bootcamp Santander - Excel com Inteligência Artificial oferecido pela <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One.</a>
 
 1️⃣ [Controle de Investimentos](https://github.com/MichelleCordeiro/excel-ia-projetos/tree/main/controle-de-investimentos)
+
+
 2️⃣ [Organizador de IR](https://github.com/MichelleCordeiro/excel-ia-projetos/tree/main/organizador-de-IR)
+
+
+3️⃣ [Dashboard de Vendas](https://github.com/MichelleCordeiro/excel-ia-projetos/tree/main/dashboard_vendas_xbox)
 
 <br>
 
@@ -37,10 +42,12 @@ Projetos desenvolvidos durante o Bootcamp Santander - Excel com Inteligência Ar
 - Fórmulas
 - Tabelas dinâmicas
 - Gráficos dinâmicos
+- Segmentação de dados
 - Proteção com desbloqueio de áreas específicas
 - Navegação por hiperlink
 - Fixação de imagens
 - Estilizações diversas
+- Dashboard
 
 <br>
 
