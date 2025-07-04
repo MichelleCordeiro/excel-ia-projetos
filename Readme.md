@@ -24,10 +24,10 @@ Projetos desenvolvidos durante o Bootcamp Santander - Excel com Inteligência Ar
 <!-- Tools session -->
 <h3> 🚀 Tecnologias utilizadas</h3>
 <p align="left">
-  <code><img height="23" src="./assets/xls-icon-3399.png" alt="Excel"> Excel</code>
-    <code><img height="25" src="./assets/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
-  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Google Chrome"> VS Code</code>
-  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
+  <code><img width="22" height="35" src="./assets/xls-icon-3399.png" alt="Excel"> Excel</code>
+  <code><img width="35" height="35" src="./assets/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
+  <code><img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Google Chrome"> VS Code</code>
+  <code><img width="23" height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
 
 </p>
 
@@ -82,7 +82,7 @@ Projetos desenvolvidos durante o Bootcamp Santander - Excel com Inteligência Ar
 
 <!--Footer session-->
 <div align="center">
-  <img src="./images/gato_rodape.svg" height="70" />
+  <img src="./assets/gato_rodape.svg" height="70" />
 
 Made with 💙 by <a href="https://www.linkedin.com/in/michelle-cordeiro/">Michelle Cordeiro</a>
 
