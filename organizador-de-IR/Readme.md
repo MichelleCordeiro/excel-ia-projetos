@@ -27,7 +27,7 @@ A planilha contendo o Organizador de Declaração de Imposto de Renda foi desenv
 <!-- Tools session -->
 <h3> 🚀 Ferramenta utilizada</h3>
 <p align="left">
-  <code><img height="23" src="./images/xls-icon-3399.png" alt="Excel"> Excel</code>
+  <code><img width="22" height="35" src="../assets/xls-icon-3399.png" alt="Excel"> Excel</code>
 </p>
 
 <br>

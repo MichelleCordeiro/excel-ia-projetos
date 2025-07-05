@@ -44,9 +44,10 @@ A planilha contendo um Simulador de Investimentos em Fundos Imobiliários (FIIs)
 <!-- Tools session -->
 <h3> 🚀 Tecnologias utilizadas</h3>
 <p align="left">
-  <code><img height="23" src="../assets/xls-icon-3399.png" alt="Excel"> Excel</code>
-  <code><img height="25" src="../assets/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
-  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Google Chrome"> VS Code</code>
+  <code><img width="22" height="35" src="../assets/xls-icon-3399.png" alt="Excel"> Excel</code>
+
+  <code><img width="35" height="35" src="../assets/google-sheets-logo.png" alt="google-sheets"> Sheets</code>
+  <code><img width="23" height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Google Chrome"> VS Code</code>
 </p>
 
 <br>

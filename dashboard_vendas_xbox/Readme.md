@@ -29,7 +29,7 @@ Todos os itens do dashboard apresentam os dados correspondente a seleção do ti
 <!-- Tools session -->
 <h3> 🚀 Ferramenta utilizada</h3>
 <p align="left">
-  <code><img height="23" src="https://github.com/MichelleCordeiro/excel-ia-projetos/blob/main/assets/xls-icon-3399.png" alt="Excel"> Excel</code>
+  <code><img width="22" height="35" src="../assets/xls-icon-3399.png" alt="Excel"> Excel</code>
 </p>
 
 <br>
